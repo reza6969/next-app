@@ -5,6 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ```bash
 npx create-next-app@13.4.19
 npm i react-icons@4.11.0
+npm i classnames@2.3.2
 ```
 
 First, run the development server:
